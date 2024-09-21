@@ -1,0 +1,82 @@
+.bdy-web{
+    background-color: #A594F9;
+    margin: 20px;
+    margin-right: 20px;
+}
+.nav-items{
+    background-color: #F5EFFF;
+    color: #A594F9;
+    width: 500px;
+    height: 50px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 25px;
+}
+.nav-items :hover{
+    color: black;
+}
+.navbar{
+    display: flex;
+    justify-content: right;
+
+}
+.head{
+    color: rgba(255, 0, 0, 0.674);
+    margin-left:100px;
+}
+.profile-cont{
+    display: flex;
+    
+}
+.head-color{
+    color: blue;
+}
+.head-one{
+    margin-left: 80px;
+    font-size:60px
+
+}
+#home{
+    height: 700px;
+    display: flex;
+}
+.home-left{
+    background-color: beige;
+    width: 50%;
+}
+.home-right{
+    width: 50%;
+}
+.sub{
+    font-size: 40px;
+}
+.abt{
+    text-align: center;
+    font-size: larger;
+}
+.skills{
+    text-align: center;
+    display: flex;
+    margin-left: 50px;
+    
+}
+.ski-one{
+    width: 30%;
+}
+.ski-two{
+    width: 30%;
+}
+.ski-three{
+    width: 30%;
+}
+.c-pic{
+    width: 50%;
+}
+.c-detail{
+    margin-left: 20px;
+}
+.contact{
+display: flex;
+}
